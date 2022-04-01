@@ -42,8 +42,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 (Game & sound works, if GIF, GIF sound, or Error message does not show, head to the live site above)
 
-Note: Second GIF shows error message when I made the mistake; does not show up in the GIF
-![](https://i.imgur.com/4l1Fl8l.gif)
+Note: Both GIFs shows error message when I made the mistake; does not show up in the GIF
 ![](https://i.imgur.com/M36mF9C.gif)
 ![](https://i.imgur.com/bwUgiXf.gif)
 
